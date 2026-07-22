@@ -382,6 +382,6 @@ It motivates me to build more Data Analytics and Power BI projects.
 
 **GitHub:** https://github.com/hiteshhh162
 
-**LinkedIn:** *(Add Your LinkedIn Profile Here)*
+**LinkedIn:** *https://www.linkedin.com/in/hitesh-693628408/*
 
 ---
